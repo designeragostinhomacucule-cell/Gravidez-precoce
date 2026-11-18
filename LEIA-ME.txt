@@ -1,0 +1,5 @@
+PROJECTO: Gravidez Precoce e Abandono Escolar
+
+Para abrir o website, abra o ficheiro index.html num navegador.
+A pasta imagens deve permanecer junto do index.html para que as imagens apareçam.
+O ZIP contém duas imagens educativas incluídas no website.
